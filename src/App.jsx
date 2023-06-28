@@ -87,8 +87,7 @@ function App() {
         <a class="text-xl font-bold" href="mailto:alex.mair22@gmail.com.com"> alex.mair22@gmail.com</a>
         <br></br>
         <a class="text-xl font-bold" href="https://www.linkedin.com/in/alex-mair-948400233"> Linkedin</a>
-        <p class="text-xl">Email: alex.mair22@gmail.com</p>
-        <p class="text-xl">Linkedin: linkedin.com/in/alex-mair-948400233 </p>
+
         </div>
       </div>
      
