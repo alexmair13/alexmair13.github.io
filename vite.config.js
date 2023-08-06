@@ -3,7 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  jsx: 'react',
-  base: '/webpersonal/',
+  base: "/alexmair13.github.io/",
   plugins: [react()],
 })
